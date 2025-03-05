@@ -12,6 +12,18 @@ fixtures = [
             "name": ["in", ["Tutor Aid",]]
         }
     },
+    {
+        "doctype": "Role",
+        "filters": {
+            "name": ["in", ["Tutor",]]
+        }
+    },
+    {
+        "doctype": "Custom DocPerm",
+        "filters": {
+            "role": ["in", ["Tutor",]]
+        }
+    },
 ]
 
 # Apps
