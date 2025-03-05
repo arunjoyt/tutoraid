@@ -1,0 +1,45 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"cR0pc4K9nD\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Tutor Aid</span>\",\"col\":12}},{\"id\":\"UNe02m5M7a\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tutor Aid Settings\",\"col\":3}},{\"id\":\"lQ1RZATAEi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Topic\",\"col\":3}}]",
+ "creation": "2025-03-05 14:36:08.801747",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "chart",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Tutor Aid",
+ "links": [],
+ "modified": "2025-03-05 14:42:52.755787",
+ "modified_by": "Administrator",
+ "module": "Tutor Aid",
+ "name": "Tutor Aid",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 29.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Tutor Aid Settings",
+   "link_to": "Tutor Aid Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Topic",
+   "link_to": "Topic",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Tutor Aid"
+}

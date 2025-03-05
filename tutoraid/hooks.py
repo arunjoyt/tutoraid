@@ -5,6 +5,15 @@ app_description = "This apps helps to create quizzes, flashcards"
 app_email = "frappifytech@gmail.com"
 app_license = "mit"
 
+fixtures = [
+    {
+        "doctype": "Workspace",
+        "filters": {
+            "name": ["in", ["Tutor Aid",]]
+        }
+    },
+]
+
 # Apps
 # ------------------
 
