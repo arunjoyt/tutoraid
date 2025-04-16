@@ -1,8 +1,13 @@
 {
  "charts": [],
- "content": "[{\"id\":\"cR0pc4K9nD\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Tutor Aid</span>\",\"col\":12}},{\"id\":\"UNe02m5M7a\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tutor Aid Settings\",\"col\":3}},{\"id\":\"lQ1RZATAEi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Topic\",\"col\":3}}]",
- "creation": "2025-03-05 14:36:08.801747",
- "custom_blocks": [],
+ "content": "[{\"id\":\"cR0pc4K9nD\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Tutor Aid</span>\",\"col\":12}},{\"id\":\"UNe02m5M7a\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tutor Aid Settings\",\"col\":3}},{\"id\":\"yzndmdKvj7\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Custom HTML Block 1\",\"col\":12}},{\"id\":\"lQ1RZATAEi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Topic\",\"col\":3}}]",
+ "creation": "2025-03-12 17:50:32.202169",
+ "custom_blocks": [
+  {
+   "custom_block_name": "Custom HTML Block 1",
+   "label": "Custom HTML Block 1"
+  }
+ ],
  "docstatus": 0,
  "doctype": "Workspace",
  "for_user": "",
@@ -13,7 +18,7 @@
  "is_hidden": 0,
  "label": "Tutor Aid",
  "links": [],
- "modified": "2025-03-05 14:42:52.755787",
+ "modified": "2025-03-13 14:28:30.334015",
  "modified_by": "Administrator",
  "module": "Tutor Aid",
  "name": "Tutor Aid",
